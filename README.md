@@ -1,5 +1,5 @@
-# Hola-Mundouwu
-primer repositorio de prueba
+# Hola-Mundo
+primer repositorio.
 
 Autor:MJ
 Fecha: 17 feb 2022
